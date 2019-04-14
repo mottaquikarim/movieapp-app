@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Movie App
+
+FE to **[this backend](https://github.com/mottaquikarim/movieapp-api)**
 
 ## Available Scripts
 
